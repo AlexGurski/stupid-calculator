@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stupid-calculator/static/css/main.0054309c.css",
+    "main.js": "/stupid-calculator/static/js/main.9d407d65.js",
+    "static/media/19635.ttf": "/stupid-calculator/static/media/19635.1ab7fb3238a0099dcb03.ttf",
+    "static/media/strict.otf": "/stupid-calculator/static/media/strict.32fc27882d568c06b120.otf",
+    "static/media/kind.ttf": "/stupid-calculator/static/media/kind.7d439711abbcaa1824ab.ttf",
+    "static/media/dead.ttf": "/stupid-calculator/static/media/dead.d9d89739d5514714cf31.ttf",
+    "static/media/digital.ttf": "/stupid-calculator/static/media/digital.93911ab167c943140756.ttf",
+    "index.html": "/stupid-calculator/index.html",
+    "main.0054309c.css.map": "/stupid-calculator/static/css/main.0054309c.css.map",
+    "main.9d407d65.js.map": "/stupid-calculator/static/js/main.9d407d65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0054309c.css",
+    "static/js/main.9d407d65.js"
+  ]
+}
