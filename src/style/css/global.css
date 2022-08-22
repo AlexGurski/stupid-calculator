@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "input";
+  src: url(../../assets/fonts/digital.ttf);
+}
+@font-face {
+  font-family: "keyboard";
+  src: url(../../assets/fonts/19635.ttf);
+}
+@font-face {
+  font-family: "strict";
+  src: url(../../assets/fonts/strict.otf);
+}
+@font-face {
+  font-family: "dead";
+  src: url(../../assets/fonts/dead.ttf);
+}
+@font-face {
+  font-family: "kind";
+  src: url(../../assets/fonts/kind.ttf);
+}
+html {
+  font-size: 10px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #c8c6ff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container {
+  width: 500px;
+  max-width: calc(100vw - 5rem);
+  height: 700px;
+  max-height: 90vh;
+}
